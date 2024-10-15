@@ -7,9 +7,9 @@
 
 body {
   font-family: "GowunBatang-Regular", serif;
+  letter-spacing: -0.3px; 
   /* 고운바탕 폰트 적용 */
 }
-
 
 /* 재생 버튼 스타일 */
 #playButton {
